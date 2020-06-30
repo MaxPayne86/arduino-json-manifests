@@ -48,6 +48,46 @@
           },
           "size": "43406787",
           "checksum": "SHA-256:08636d9d5f84fff681b712b27c45065f3b8ca12624396c874a771da6be433f89"
+        },
+        {
+          "category": "Contributed",
+          "name": "Lifely Agrumino Boards",
+          "url": "https://github.com/MaxPayne86/Arduino/releases/download/2.7.1-lifely-a1/2.7.1-lifely-a1.zip",
+          "version": "2.7.1-lifely-a1",
+          "architecture": "esp8266",
+          "archiveFileName": "2.7.1-lifely-a1.zip",
+          "boards": [
+            {
+              "name": "Agrumino Lemon v4 (WT8266-S1 Module)"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "lifely",
+              "version": "2.5.0-4-b40a506",
+              "name": "xtensa-lx106-elf-gcc"
+            },
+            {
+              "packager": "lifely",
+              "version": "2.5.0-4-b40a506",
+              "name": "mkspiffs"
+            },
+            {
+              "packager": "lifely",
+              "version": "2.5.0-4-fe5bb56",
+              "name": "mklittlefs"
+            },
+            {
+              "packager": "lifely",
+              "version": "3.7.2-post1",
+              "name": "python3"
+            }
+          ],
+          "help": {
+            "online": "https://arduino-esp8266.readthedocs.io/en/2.7.1/"
+          },
+          "size": "43759044",
+          "checksum": "SHA-256:de8d695baf440cd9024b3804ceb892ccb645cb1090cec892a49b507145e09563"
         }
       ],
       "tools": [
