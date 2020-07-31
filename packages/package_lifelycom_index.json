@@ -166,8 +166,8 @@
           "help": {
             "online": "https://arduino-esp8266.readthedocs.io/en/2.7.1/"
           },
-          "size": "44974278",
-          "checksum": "SHA-256:3145de595ccf02b066f01b6ca09cc5c4a851362ca564e712f72bf721e5d644f8"
+          "size": "44974276",
+          "checksum": "SHA-256:6662dad1122c91929551f69a93d1fd6ae9cd11f60c62d8c3c32d79240befcf34"
         }
       ],
       "tools": [
